@@ -1,1 +1,3 @@
+autotest/*.txt
+.csv
 .DS_Store
