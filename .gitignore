@@ -1,1 +1,4 @@
+autotest/*.txt
+.csv
 .DS_Store
+autotest/output_*/
